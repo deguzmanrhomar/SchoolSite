@@ -4,16 +4,14 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/master/LICENSE)
  */
 
-.schimg1 {
-  margin-left: 600px;
+div.logo {
+  max-width: 700px;
+  margin: auto;
+  margin-top: 10px;
 }
 
-.schimg2 {
+img.sch {
   margin-left: 50px;
-}
-
-.schimg3 {
-  margin-left: 75px;
 }
 
 body {
